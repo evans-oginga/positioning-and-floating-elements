@@ -70,3 +70,18 @@
 .photo{
     width: 100%;
 }
+.main-text{
+    width: 75%;
+    margin: 0 auto;
+}
+
+/*
+    The footer section
+*/
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+
+}
