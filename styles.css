@@ -74,6 +74,25 @@
     width: 75%;
     margin: 0 auto;
 }
+.descriptions{
+    float: left;
+}
+.social-media-links{
+    float: right;
+    
+}
+.social-media-item{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 10px;
+  
+}
+.social-media-item li{
+    padding: 10px;
+}
+
+
 
 /*
     The footer section
