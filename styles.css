@@ -6,6 +6,7 @@
 /*The top bar*/
 .container{
     display: flex;
+
     
 }
 .nav{
@@ -57,7 +58,15 @@
     the body section
 
 */
+.content{
+    width: 900px;
+    margin: 0 auto;
+}
 .topic{
+    clear: both;
     text-align: center;
     padding-top: 0;
+}
+.photo{
+    width: 100%;
 }
