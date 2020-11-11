@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*The top bar*/
+.container{
+    display: flex;
+    
+}
+.nav{
+    padding: 20px;
+    color: black;
+}
+.bar-icon{
+    padding-right: 20px;
+}
+.search{
+    padding-right: 20px;
+}
+.main-site{
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    color: black;
+    text-decoration: none;
+    
+}
+.middle{
+    margin-left: 300px;
+    float: right;
+}
+.subscribe{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: rgb(50, 104, 145);
+    background-color: #5995DA;
+    padding: 5px;
+    text-decoration: none;
+    border: 2px solid #5D6063;
+    margin: 10px;
+    border-radius:5px;
+}
+.login{
+    position: absolute;
+    top: 0;
+    right: 180px;
+    color: rgb(50, 104, 145);
+    background-color: #5995DA;
+    text-decoration: none;
+    padding:5px;
+    border: 2px solid #5D6063;
+    margin: 10px;
+    border-radius:5px;
+}
+
+/*
+    the body section
+
+*/
+.topic{
+    text-align: center;
+    padding-top: 0;
+}
