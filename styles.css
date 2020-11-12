@@ -150,32 +150,18 @@
     border: 2px solid grey;
     border-radius:5px;
 }
-/*test
-.misc{
-    float: left;
-    margin: 50px;
-    padding:10px;
-}
-.popular{
-    float: right;
-    right: 0;
-    margin: 50px;
-    padding:10px;    
-}
 
-*/
-/* Create two equal columns that floats next to each other */
 .column1 {
     float: left;
     width: 75%;
     padding: 10px;
-    /*height: 300px;  Should be removed. Only for demonstration */
+
 }
 .column2 {
     float: left;
     width: 25%;
     padding: 10px;
-    /*height: 300px;  Should be removed. Only for demonstration */
+
   }
   .other-news li{
       list-style-type: none;
